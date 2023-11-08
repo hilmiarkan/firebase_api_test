@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278024146071",
+    "project_id": "coba-firebase-api",
+    "storage_bucket": "coba-firebase-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278024146071:android:e75fb9c8435262a4306dd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_api_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyROBDp8ELAZW0cLeRbnK5Eh1i4v_cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
